@@ -1,16 +1,6 @@
 {
   "quotes": [
     {
-      "id": 1,
-      "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
-      "author": "Ann Richards"
-    },
-    {
-      "id": 2,
-      "quote": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
-      "author": "Collin Powell"
-    },
-    {
       "id": 3,
       "quote": "Don't count the days, make the days count.",
       "author": "Mike Tyson"
@@ -44,22 +34,45 @@
       "id": 9,
       "quote": "Our greatest glory is not in never falling, but in rising everytime we fall.",
       "author": "Confucius"
-    },
-    {
-      "id": 10,
-      "quote": "You know, failure hurts. Any kind of failure stings. If you live in the sting, you will undoubtedly fail. My way of getting past the sting is to say no, I’m just not going to let this get me down.",
-      "author": "Sonia Sotomayor"
-    },
-    {
-      "quoteId": 2,
-      "id": 11
     }
   ],
   "likes": [
     {
-      "id": 1,
-      "quoteId": 1,
-      "createdAt": 1558524356
+      "quote": "new",
+      "author": "start",
+      "id": 2
+    },
+    {
+      "quote": "test",
+      "author": "new",
+      "id": 3
+    },
+    {
+      "quoteId": 3,
+      "id": 9
+    },
+    {
+      "quoteId": 4,
+      "id": 10
+    },
+    {
+      "quoteId": 9,
+      "id": 12
+    },
+    {
+      "quoteId": 8,
+      "id": 13
+    },
+    {
+      "quote": "undefined",
+      "author": "by you",
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 17
     }
   ]
 }
